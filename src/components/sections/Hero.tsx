@@ -6,9 +6,8 @@ export default function Hero() {
           <p className="text-zinc-500 font-medium mb-4 tracking-wide uppercase text-sm">Hi, my name is</p>
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-zinc-100 mb-6 group">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-zinc-100 to-zinc-500">
-              Data & CRM Systems
+              Hongwei Lee.
             </span>
-            <br /> Analyst.
           </h1>
           <p className="text-lg md:text-xl text-zinc-400 mb-10 max-w-2xl leading-relaxed">
             I craft data-driven solutions and optimize CRM systems to drive operational
